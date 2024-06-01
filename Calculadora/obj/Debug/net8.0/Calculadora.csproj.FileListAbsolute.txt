@@ -1,0 +1,15 @@
+D:\DotNet\Git\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\DotNet\Git\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\DotNet\Git\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\DotNet\Git\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\DotNet\Git\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\DotNet\Git\TestesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
